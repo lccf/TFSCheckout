@@ -10,5 +10,5 @@ let g:tf_login = ' /login:[user],[password]'
 ```
 
 ## 使用
-- 通过 :TFSCheckout 命令
+- 在文件编辑窗口输入 :TFSCheckout 命令（输入TFS按<Tab>可补全）
 - 在NerdTree上按m出菜单，选择 TFS Check (o)ut
